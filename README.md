@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Albin Thomas George</h1>
 <h3 align="center">A passionate frontend developer from Kerala</h3>
-<img align= "right"  alt="coading"  width= "400"
-scr"https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">
+<img align= "right"  alt="coding"  width= "400"
+scr"https://tse4.mm.bing.net/th?id=OIP.yw0TnheAGN-LPneDaTlaxwHaD8&pid=Api&P=0&h=220.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=albinthomas45&label=Profile%20views&color=0e75b6&style=flat" alt="albinthomas45" /> </p>
 
