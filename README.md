@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Albin Thomas George</h1>
 <h3 align="center">A passionate frontend developer from Kerala</h3>
+<img align="right" alt="coding" width="400" src="https://repository-images.githubusercontent.com/703693380/dd2a8b99-4d65-4e3a-8579-ea800f9c1608"
 <img align= "right"  alt="coding"  width= "400"
 scr"[https://tse4.mm.bing.net/th?id=OIP.yw0TnheAGN-LPneDaTlaxwHaD8&pid=Api&P=0&h=220.gif"](https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47rnafq6mfq868ipd0wnhwilvm8j784nj6hle0eavk&ep=v1_gifs_search&rid=giphy.gif&ct=g")>
 
